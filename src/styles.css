@@ -399,7 +399,7 @@ h3 { font-size: 28px; margin-bottom: 8px; }
   position: absolute;
   left: 50%;
   top: 7%;
-  width: min(78%, 620px);
+  width: min(72%, 596px);
   aspect-ratio: 8 / 3.3;
   transform: translateX(-50%);
   background: linear-gradient(#1c6280, #16485c 55%, #102f3b);
